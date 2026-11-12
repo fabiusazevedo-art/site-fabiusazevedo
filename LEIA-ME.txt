@@ -1,0 +1,6 @@
+SITE FABIUS AZEVEDO — PACOTE PRONTO PARA HOSPEDAGEM
+
+Esta pasta contém o site compilado. Envie todos os arquivos e subpastas, preservando os caminhos.
+Não envie apenas o index.html: ele depende dos arquivos de assets, imagens e configuração incluídos.
+Este pacote é a versão estática do site; a edição por painel CMS será configurada separadamente.
+Para publicar, use um serviço de hospedagem para sites estáticos. Abrir o HTML sozinho no telefone não publica o site.
